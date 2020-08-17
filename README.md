@@ -1,5 +1,5 @@
 # Welcome to AP Computer Science A!
-*Taught by Mr. Tiveron, Zach Lefkovitz, and Elliot Brockstien*
+*Taught by Mr. Tiveron, Ms. Kaplan, Zach Lefkovitz, Elliot Brockstien, and Apollos Burcham*
 
 ---
 This will be a resource for students to ask and answer questions. \
