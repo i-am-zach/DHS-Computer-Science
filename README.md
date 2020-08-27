@@ -4,7 +4,7 @@
 ---
 This will be a resource for students to ask and answer questions. \
 Visit the [wiki](https://github.com/i-am-zach/AP-CS-A/wiki) to see answered questions! \
-Use the Issues page to ask questions \
+Use the [Issues](https://github.com/i-am-zach/DHS-Computer-Science/issues) page to ask questions \
 If you would prefer to ask using a google form, click [here](https://docs.google.com/forms/d/e/1FAIpQLSfuFh-9IUkqL2a2VW1twcTDm2s8BEC9hsQ0N_19QmsRytTdoA/viewform?usp=sf_link).\
 *Before submitting a question please look through the wiki to avoid redundant questions.*
 
